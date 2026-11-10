@@ -8,7 +8,7 @@ Wanjiku operates a fresh-produce stall at Gikomba Market and requires data-drive
 **1:** Click the badge below to open the complete, executable workspace directly in Google Colab.
 **2:** Navigate to the top menu and select **Runtime** $\rightarrow$ **Restart and run all**.
 **3:** Scroll down to view the programmatically generated metrics and the beautifully aligned **Stall Performance Report**.
-[![Open In Colab](https://colab.research.google.com/drive/1W2yPDDoD4tfHhU-52ZPECxqCXy3Ycs_H?usp=sharing)]
+[![Open In Colab](https://shields.io)](https://colab.research.google.com/drive/1W2yPDDoD4tfHhU-52ZPECxqCXy3Ycs_H?usp=sharing)
 
 ## Top Three Findings
 
