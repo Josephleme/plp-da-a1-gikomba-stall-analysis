@@ -12,6 +12,6 @@ Wanjiku operates a fresh-produce stall at Gikomba Market and requires data-drive
 
 ## Top Three Findings
 
-**1. Massive Weekend Performance:** Wanjiku's average weekend revenue (KES 4,900.00) is **79.82% higher** than her regular weekday revenue average (KES 2,725.00), showing that her consumer base is heavily concentrated on Saturdays and Sundays.
-**2. Positive Growth Trajectory:** The business exhibits strong upward momentum, registering a **10.45% Week-on-Week growth rate** as total revenue climbed from KES 21,250.00 in Week 1 to KES 23,470.00 in Week 2.
-**3. Critical Stock Depletion Risks:** An inventory audit revealed that **Tomatoes** (18kg remaining vs 25kg reorder trigger) and **Sukuma** (9kg remaining vs 15kg reorder trigger) have breached their minimum safety thresholds and require immediate reordering to prevent costly stockouts.
+1. **Massive Weekend Performance:** Wanjiku's average weekend revenue (KES 4,900.00) is **79.82% higher** than her regular weekday revenue average (KES 2,725.00), showing that her consumer base is heavily concentrated on Saturdays and Sundays.
+2. **Positive Growth Trajectory:** The business exhibits strong upward momentum, registering a **10.45% Week-on-Week growth rate** as total revenue climbed from KES 21,250.00 in Week 1 to KES 23,470.00 in Week 2.
+3. **Critical Stock Depletion Risks:** An inventory audit revealed that **Tomatoes** (18kg remaining vs 25kg reorder trigger) and **Sukuma** (9kg remaining vs 15kg reorder trigger) have breached their minimum safety thresholds and require immediate reordering to prevent costly stockouts.
